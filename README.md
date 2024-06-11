@@ -27,13 +27,21 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data?select=WA_Fn
 977.5 KB
 
 II. Methods Used
+
 Exploratory Data Analysis (EDA)
+
 Data Preprocessing
+
 Feature Engineering : One Hot Encoding, SMOTE (Synthetic Minority Over-sampling Technique)
+
 Model Development : LogisticRegression, DecissionTreeClassifier, RandomForestClassifier
+
 Model Evaluation
+
 Web Interface Development (Streamlit)
+
 API Development (fastAPI) (sedang Progress)
+
 Containerization (Docker) (sedang Progress)
 
 III. Project Structure
