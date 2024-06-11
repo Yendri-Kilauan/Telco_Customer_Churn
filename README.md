@@ -35,6 +35,24 @@ IV. Project Structure
 The project is organized as follows: https://github.com/Yendri-Kilauan/Telco_Customer_Churn/blob/main/source%20code/Edit_Telco_Customer_Churn.ipynb
 
 ├── eda
+│   └── eda.ipynb               # Notebook for Exploratory Data Analysis
+│   └── helper_function.py      # Pyton script for data wrangling
+├── model
+│   └── catboost_model.cbm      # Trained CatBoost model
+├── src
+│   └── fast-api.py             # api script
+|   └── predict.py              # model prediction script
+|   └── streamlit.py            # web interface
+|   └── train_model.py          # script for training model
+├── Dockerfile                  # Dockerfile for containerization
+├── requirements.txt            # Python dependencies
+├── Telco-Customer-Churn.csv    # Dataset
+└── README.md                   # Project documentation
+
+
+
+
+├── eda
 │   └── Edit_Telco_Customer_Churn.ipynb    # Notebook for Exploratory Data Analysis
 │   
 ├── model logistic.joblib
