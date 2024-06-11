@@ -37,19 +37,33 @@ The project is organized as follows: https://github.com/Yendri-Kilauan/Telco_Cus
 
 
 ├── eda
+
 │   └── eda.ipynb               # Notebook for Exploratory Data Analysis
+
 │   └── helper_function.py      # Pyton script for data wrangling
+
 ├── model
+
 │   └── catboost_model.cbm      # Trained CatBoost model
+
 ├── src
+
 │   └── fast-api.py             # api script
+
 |   └── predict.py              # model prediction script
+
 |   └── streamlit.py            # web interface
+
 |   └── train_model.py          # script for training model
+
 ├── Dockerfile                  # Dockerfile for containerization
+
 ├── requirements.txt            # Python dependencies
+
 ├── Telco-Customer-Churn.csv    # Dataset
+
 └── README.md                   # Project documentation
+
 
 
 
