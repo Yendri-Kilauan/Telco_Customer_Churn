@@ -35,6 +35,7 @@ Containerization (Docker) (sedang Progress)
 III. Project Structure
 The project is organized as follows: https://github.com/Yendri-Kilauan/Telco_Customer_Churn/blob/main/source%20code/Edit_Telco_Customer_Churn.ipynb
 
+
 ├── eda
 │   └── eda.ipynb               # Notebook for Exploratory Data Analysis
 │   └── helper_function.py      # Pyton script for data wrangling
