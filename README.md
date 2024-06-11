@@ -2,6 +2,7 @@
 Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs
 
 Idea 2: Customer Churn Prediction
+
 Final Project : AI Engineering, QarirGenerator
 
 I. Business Understanding
@@ -21,7 +22,7 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data?select=WA_Fn
 
 977.5 KB
 
-III. Methods Used
+II. Methods Used
 Exploratory Data Analysis (EDA)
 Data Preprocessing
 Feature Engineering : One Hot Encoding, SMOTE (Synthetic Minority Over-sampling Technique)
@@ -31,7 +32,7 @@ Web Interface Development (Streamlit)
 API Development (fastAPI) (sedang Progress)
 Containerization (Docker) (sedang Progress)
 
-IV. Project Structure
+III. Project Structure
 The project is organized as follows: https://github.com/Yendri-Kilauan/Telco_Customer_Churn/blob/main/source%20code/Edit_Telco_Customer_Churn.ipynb
 
 ├── eda
