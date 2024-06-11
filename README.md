@@ -36,39 +36,8 @@ III. Project Structure
 The project is organized as follows: https://github.com/Yendri-Kilauan/Telco_Customer_Churn/blob/main/source%20code/Edit_Telco_Customer_Churn.ipynb
 
 
-├── eda
+├── EDA
 
-│     └── eda.ipynb               # Notebook for Exploratory Data Analysis
-
-│        └── helper_function.py      # Pyton script for data wrangling
- 
-├── model
-
-│        └── catboost_model.cbm      # Trained CatBoost model
-
-├── src
-
-│        └── fast-api.py             # api script
-
-|        └── predict.py              # model prediction script
-
-|        └── streamlit.py            # web interface
-
-|        └── train_model.py          # script for training model
-
-├── Dockerfile                  # Dockerfile for containerization
-
-├── requirements.txt            # Python dependencies
-
-├── Telco-Customer-Churn.csv    # Dataset
-
-└── README.md                   # Project documentation
-
-
-
-
-
-├── eda
 │   └── Edit_Telco_Customer_Churn.ipynb    # Notebook for Exploratory Data Analysis
 │   
 ├── model logistic.joblib
@@ -76,7 +45,7 @@ The project is organized as follows: https://github.com/Yendri-Kilauan/Telco_Cus
 │   └── dtree.joblib           # Trained DecissionTreeClassifier model
 │   └── rforest.joblib         # Trained RandomForestClassifier model
 │ 
-├── src
+├── Source
 │   └── app1.py                 # Streamlit web application LogisticRegression
 |   └── app1.py                 # Streamlit web application DecissionTreeClassifier
 |   └── app3.py                 # Streamlit web application RandomForestClassifier
@@ -98,9 +67,9 @@ VII. How to run Webapp
 Navigate to the src directory and run the Streamlit app
 cd source code, cd streamlit
 
-streamlit run app1.py LogisticRegression
-streamlit run app2.py DecissionTreeClassifier
-streamlit run app3.py RandomForestClassifier
+streamlit run app1.py   #LogisticRegression
+streamlit run app2.py   #DecissionTreeClassifier
+streamlit run app3.py   #RandomForestClassifier
 
 Open your browser and go to http://localhost:8501
 
