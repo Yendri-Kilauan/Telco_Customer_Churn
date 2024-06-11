@@ -56,15 +56,16 @@ The project is organized as follows: https://github.com/Yendri-Kilauan/Telco_Cus
 
 |	└── app3.py                 # Streamlit web application RandomForestClassifier
 
-│└── fast-api.py             # api script (sedang Progress)
+│ └── fast-api.py             # api script (sedang Progress)
 
 ├── Dockerfile                  # Dockerfile for containerization (sedang progress)
-│
+
 ├── requirements.txt            # Python dependencies
-│
+
 ├── WA_Fn-UseC_-Telco-Customer-Churn.csv    # Dataset
-│
+
 └── README.md                   # Project documentation
+
 
 IV. Results
 The RandomForestClassifier model achieved an accuracy of 85%, LogisticRegression of 82%, DecissionTreeClassifier of 80% on the test dataset. 
@@ -83,6 +84,26 @@ Open your browser and go to http://localhost:8501
 VI. Conclusion
 This project demonstrates an end-to-end machine learning workflow, from data analysis to model deployment. 
 #The use of Docker ensures that the application can be easily deployed and scaled. (Sedang Progress)
+
+Here's the streamlit display:                                                                                                                                              
+                                                                                                                                                                                        
+<img width="734" alt="churnpredictor" src="https://github.com/Yendri-Kilauan/Telco_Customer_Churn/assets/134827728/72cbe0fc-6dd5-489f-9ec1-a4605fca7af7">
+                                                                                                                                                                                              
+                                                                                                                                                                               
+Customer Loyal Prediction
+                                                                                                                                                                                
+<img width="691" alt="loyal" src="https://github.com/Yendri-Kilauan/Telco_Customer_Churn/assets/134827728/50627095-c7a2-450d-9ae3-14d1df6f7719">
+                                                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                
+Customer Churn Prediction                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                        
+<img width="653" alt="churn" src="https://github.com/Yendri-Kilauan/Telco_Customer_Churn/assets/134827728/bfd78eea-dc46-4244-927f-d01b0766995c">
+
+
+
+
+
+
 
 
 
