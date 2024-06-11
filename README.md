@@ -6,6 +6,7 @@ Idea 2: Customer Churn Prediction
 Final Project : AI Engineering, QarirGenerator
 
 I. Business Understanding
+
 About Dataset:
 Context "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]
 Content Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
@@ -13,9 +14,12 @@ Content Each row represents a customer, each column contains customer’s attrib
 The data set includes information about:
 Customers who left within the last month – the column is called Churn Services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges Demographic info about customers – gender, age range, and if they have partners and dependents Inspiration To explore this type of models and learn more about the subject.
 
-New version from IBM: https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113
+New version from IBM: 
+
+https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113
 
 Data Sheet = WA_Fn-UseC_-Telco-Customer-Churn.csv
+
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data?select=WA_Fn-UseC_-Telco-Customer-Churn.csv
 
 7,043 rows × 21 columns
@@ -33,7 +37,9 @@ API Development (fastAPI) (sedang Progress)
 Containerization (Docker) (sedang Progress)
 
 III. Project Structure
-The project is organized as follows: https://github.com/Yendri-Kilauan/Telco_Customer_Churn/blob/main/source%20code/Edit_Telco_Customer_Churn.ipynb
+The project is organized as follows: 
+
+https://github.com/Yendri-Kilauan/Telco_Customer_Churn/blob/main/source%20code/Edit_Telco_Customer_Churn.ipynb
 
 
 ├── EDA
@@ -89,15 +95,15 @@ VI. Conclusion
 This project demonstrates an end-to-end machine learning workflow, from data analysis to model deployment. 
 #The use of Docker ensures that the application can be easily deployed and scaled. (Sedang Progress)
 
-Here's the streamlit display:                                                                                                                                              
-                                                                                                                                                                                        
+
+Here's the streamlit display: 
+
 <img width="734" alt="churnpredictor" src="https://github.com/Yendri-Kilauan/Telco_Customer_Churn/assets/134827728/72cbe0fc-6dd5-489f-9ec1-a4605fca7af7">
-                                                                                                                                                                                              
-                                                                                                                                                                               
+                                                                                                                                                                                            
 Customer Loyal Prediction
-                                                                                                                                                                                
-<img width="691" alt="loyal" src="https://github.com/Yendri-Kilauan/Telco_Customer_Churn/assets/134827728/50627095-c7a2-450d-9ae3-14d1df6f7719">
-                                                                                                                                                                                                                                                                                                              
+
+<img width="691" alt="loyal" src="https://github.com/Yendri-Kilauan/Telco_Customer_Churn/assets/134827728/9e76bfd9-b205-40ec-b3b2-13a1c4878266">
+                                                                                                                                                                                                                                                                                                        
                                                                                                                                                                                                                                                 
 Customer Churn Prediction                                                                                                                                                                                         
                                                                                                                                                                                                                                                                         
