@@ -76,12 +76,16 @@ Navigate to the src directory and run the Streamlit app
 cd source code, cd streamlit
 
 streamlit run app1.py   #LogisticRegression
+
 streamlit run app2.py   #DecissionTreeClassifier
+
 streamlit run app3.py   #RandomForestClassifier
 
 Open your browser and go to http://localhost:8501
 
+
 VI. Conclusion
+
 This project demonstrates an end-to-end machine learning workflow, from data analysis to model deployment. 
 #The use of Docker ensures that the application can be easily deployed and scaled. (Sedang Progress)
 
