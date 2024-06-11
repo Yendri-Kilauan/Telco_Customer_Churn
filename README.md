@@ -38,7 +38,7 @@ The project is organized as follows: https://github.com/Yendri-Kilauan/Telco_Cus
 
 ├── eda
 
-│        └── eda.ipynb               # Notebook for Exploratory Data Analysis
+│     └── eda.ipynb               # Notebook for Exploratory Data Analysis
 
 │        └── helper_function.py      # Pyton script for data wrangling
  
