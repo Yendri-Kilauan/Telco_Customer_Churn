@@ -40,7 +40,7 @@ Model Evaluation
 
 Web Interface Development (Streamlit)
 
-API Development (fastAPI) (sedang Progress)
+API Development (FastAPI) (Alhamdulillah sudah bisa)
 
 Containerization (Docker) (sedang Progress)
 
@@ -70,7 +70,7 @@ https://github.com/Yendri-Kilauan/Telco_Customer_Churn/blob/main/source%20code/E
 
 |	└── app3.py                 # Streamlit web application RandomForestClassifier
 
-│ └── fast-api.py             # api script (sedang Progress)
+│ └── app.py                  # api script (Alhamdulillah sudah bisa)
 
 ├── Dockerfile                  # Dockerfile for containerization (sedang progress)
 
@@ -95,10 +95,21 @@ streamlit run app2.py   #DecissionTreeClassifier
 
 streamlit run app3.py   #RandomForestClassifier
 
-Open your browser and go to http://localhost:8501
+Open your browser and go to : http://localhost:8501
 
 
-VI. Conclusion
+VI. How to run FASTAPI
+Navigate to the src directory and run the FastAPI app
+cd FastAPI, cd source_code
+
+run app.py   #Running at Visual Studio
+
+Open your browser and go to : http://127.0.0.1:8000
+
+Testing input : Open your browser and go to : http://127.0.0.1:8000/docs
+
+
+VII. Conclusion
 
 This project demonstrates an end-to-end machine learning workflow, from data analysis to model deployment. 
 #The use of Docker ensures that the application can be easily deployed and scaled. (Sedang Progress)
