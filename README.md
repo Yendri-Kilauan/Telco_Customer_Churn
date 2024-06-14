@@ -102,7 +102,7 @@ VI. How to run FASTAPI
 Navigate to the src directory and run the FastAPI app
 cd FastAPI, cd source_code
 
-run app.py   #Running at Visual Studio
+run app.py    #Running at Visual Studio
 
 Open your browser and go to : http://127.0.0.1:8000
 
@@ -127,6 +127,29 @@ Customer Loyal Prediction
 Customer Churn Prediction                                                                                                                                                                                         
                                                                                                                                                                                                                                                                         
 <img width="653" alt="churn" src="https://github.com/Yendri-Kilauan/Telco_Customer_Churn/assets/134827728/bfd78eea-dc46-4244-927f-d01b0766995c">
+
+
+
+Here's the FastAPI display: 
+
+<img width="734" alt="ChurnPredictor1A" src="https://github.com/Yendri-Kilauan/Telco_Customer_Churn/assets/134827728/655cc424-8819-4487-97a3-37ec6d52ef47">
+
+
+<img width="731" alt="ChurnPredictor1B" src="https://github.com/Yendri-Kilauan/Telco_Customer_Churn/assets/134827728/527ade82-919c-41c3-a55d-23df6d857237">
+
+
+<img width="734" alt="ChurnPredictor2A" src="https://github.com/Yendri-Kilauan/Telco_Customer_Churn/assets/134827728/74de9e53-16a0-4b79-9ac9-b5550f30d5db">
+
+
+<img width="711" alt="ChurnPredictor2B" src="https://github.com/Yendri-Kilauan/Telco_Customer_Churn/assets/134827728/4fbd533e-5ea4-474d-974f-f078ea3373a1">
+
+
+
+
+
+
+
+
 
 
 
